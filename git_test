@@ -4,5 +4,6 @@ int main (void)
 {
   printf("HEllO Kyota")
   printf("Hello eito");
+	printf(lasdgf)
   return 0;
 }
